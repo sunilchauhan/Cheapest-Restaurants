@@ -81,3 +81,8 @@ Program Input
 Expected Output
 
 6, 11.0
+
+GETTING STARTED
+-------------------------
+
+Make sure you have the input.csv file at the same location from where you are running restaurant.py file.
